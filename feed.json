@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://citizenyosh.github.io/Publii/hello-world.html",
-            "url": "https://citizenyosh.github.io/Publii/hello-world.html",
+            "id": "https://citizenyosh.github.io/Publii/hello-world/",
+            "url": "https://citizenyosh.github.io/Publii/hello-world/",
             "title": "Hello World",
             "summary": "Testing 1 2 3.",
             "content_html": "<p>Testing 1 2 3.</p>",

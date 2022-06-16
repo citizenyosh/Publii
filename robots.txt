@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://citizenyosh.github.io/Publii/sitemap.xml
+Disallow: /
