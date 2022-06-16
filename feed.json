@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Ramblings",
+    "description": "",
+    "home_page_url": "https://citizenyosh.github.io/Publii",
+    "feed_url": "https://citizenyosh.github.io/Publii/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Citizen Yosh"
+    },
+    "items": [
+        {
+            "id": "https://citizenyosh.github.io/Publii/hello-world.html",
+            "url": "https://citizenyosh.github.io/Publii/hello-world.html",
+            "title": "Hello World",
+            "summary": "Testing 1 2 3.",
+            "content_html": "<p>Testing 1 2 3.</p>",
+            "author": {
+                "name": "Citizen Yosh"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-06-16T17:28:12+01:00",
+            "date_modified": "2022-06-16T17:28:19+01:00"
+        }
+    ]
+}

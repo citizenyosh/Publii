@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Ramblings</title>
+    <link href="https://citizenyosh.github.io/Publii/feed.xml" rel="self" />
+    <link href="https://citizenyosh.github.io/Publii" />
+    <updated>2022-06-16T17:28:19+01:00</updated>
+    <author>
+        <name>Citizen Yosh</name>
+    </author>
+    <id>https://citizenyosh.github.io/Publii</id>
+
+    <entry>
+        <title>Hello World</title>
+        <author>
+            <name>Citizen Yosh</name>
+        </author>
+        <link href="https://citizenyosh.github.io/Publii/hello-world.html"/>
+        <id>https://citizenyosh.github.io/Publii/hello-world.html</id>
+
+        <updated>2022-06-16T17:28:19+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Testing 1 2 3.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Testing 1 2 3.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
